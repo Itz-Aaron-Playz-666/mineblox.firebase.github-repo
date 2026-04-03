@@ -28,5 +28,4 @@ yarn-error.log*
 /.env.*
 pnpm.env
 
-# User define files
-*.config.*
+firebase.cts
